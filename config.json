@@ -1,0 +1,26 @@
+
+server	
+name	"GoulpLoader"
+banner	"img/banner.png"
+plugins	
+slideshow	
+active	false
+speed	1000
+time	5000
+random	false
+image	
+0	"http://i.ytimg.com/vi/4LRvEYsZNfY/maxresdefault.jpg"
+1	"http://cloud-4.steampowered.com/ugc/510328173857488907/D3C86C34DCE410D2C4ED0C3AA06F7ED41ECF468A/"
+2	"http://i.ytimg.com/vi/66_hi3AfwT0/maxresdefault.jpg"
+music	
+active	false
+file	"example.wav"
+volume	0.1
+title	"Example Song"
+rules	
+0	
+line	"Запрещено использование читов."
+1	
+line	"Игрок должен слушаться администрацию."
+2	
+line	"Игрок обязан соблюдать правила сервера!"

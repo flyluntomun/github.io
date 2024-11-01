@@ -1,0 +1,50 @@
+/*
+*  @author: iKlem <iklem.d@gmail.com>
+*  @version: 1.1
+*/
+
+/* Background image and color. */
+body {
+	background-image: url("img/rp_pripyat_redux.jpg");
+	background-size: 100% auto;
+	//background-repeat: no-repeat;
+	//background-color:#000;
+	//background-position: center top;
+	//margin: 0px;
+	//padding: 0px;
+	
+	//background: #E9E9E9 url("img/rp_pripyat_redux.jpg") repeat-x top left;
+	
+    //background: #CCCCCC ;
+	//background-size: cover;
+	//background-position-x: center;
+}
+
+/* Background color of the left panel. */
+header {
+    background: #FFFFFF;
+}
+
+/* Color/background color of the titles "SERVER NAME" and "RULES" */
+h1, #player {
+    color: white;
+    background-color: #045FB4;
+}
+
+/* Background color of the progress bar. */
+#stateLoad {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 7%;
+}
+/* Background color of the progress bar. */
+#loadBar {
+    background-color: #939393;
+}
+
+/* Color of the filled part of the progress bar. */
+#loadBar-width {
+    background-color: black;
+}
